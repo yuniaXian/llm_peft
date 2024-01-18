@@ -2,6 +2,7 @@
 My finetuning codes for llms (PEFT)
 
 ### What's New:
+* Dec 2023: working on auto labelling pipeline for curating data to finetune llms.
 * Nov 2023: Data compresser: Use entropy to 'filter in' sentences with high entropy, retaining sentences which are more informative) -> langchain/compress.py
 * Oct 2023: Auto labelling prompt
 * Oct 2023: Implement adapter finetuning for Chatglm-6b-2, add to any linear layer -> finetune_adapter.py
