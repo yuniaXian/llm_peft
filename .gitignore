@@ -9,7 +9,6 @@ __pycache__/
 # Distribution / packaging
 backup/
 data/cr_dataset
-llm/
 llm/models/
 tokenize/
 .Python
